@@ -1,7 +1,7 @@
 # Fox Adventure
 
 [小狐狸大冒险](https://github.com/hjwforever/FoxAdventure)   
-
+[前往下载桌面端](https://github.com/hjwforever/FoxAdventure/releases/tag/v0.1-alpha)
 > Unity·2D·横版过关
 >
 > <kbd>A</kbd>、<kbd>D</kbd>控制小狐狸转向及移动
