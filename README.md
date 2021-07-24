@@ -1,6 +1,6 @@
 # Fox Adventure
 
-[小狐狸大冒险]([hjwforever/FoxAdventure: Unity2D 闯关游戏——小狐狸大冒险 (github.com)](https://github.com/hjwforever/FoxAdventure))   
+[小狐狸大冒险](https://github.com/hjwforever/FoxAdventure)   
 
 > Unity·2D·横版过关
 >
